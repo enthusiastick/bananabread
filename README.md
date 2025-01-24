@@ -1,6 +1,6 @@
 # (I've Never Made) Banana Bread
 
-**JSON Link:** https://raw.githubusercontent.com/enthusiastick/bananabread/main/bananabread.json
+**JSON Link:** https://raw.githubusercontent.com/enthusiastick/bananabread/main/banana-bread.json
 
 *& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
 
@@ -27,7 +27,7 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Drunk](https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png) | **Drunk** | You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.
-![Recluse](https://wiki.bloodontheclocktower.com/images/6/60/Icon_recluse.png) | **Recluse** | You might register as evil & as a Minion or Demon, even if dead.
+![Sweetheart](https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png) | **Sweetheart** | When you die, 1 player is drunk from now on.
 ![PlagueDoctor](https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png) | **Plague Doctor** | When you die, the Storyteller gains a Minion ability.
 ![Zealot](https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png) | **Zealot** | If there are 5 or more players alive, you must vote for every nomination.
 
