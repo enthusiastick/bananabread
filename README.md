@@ -27,9 +27,9 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Drunk](https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png) | **Drunk** | You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.
+![Tinker](https://wiki.bloodontheclocktower.com/images/9/98/Icon_tinker.png) | **Tinker** | You might die at any time.
 ![Sweetheart](https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png) | **Sweetheart** | When you die, 1 player is drunk from now on.
 ![PlagueDoctor](https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png) | **Plague Doctor** | When you die, the Storyteller gains a Minion ability.
-![Zealot](https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png) | **Zealot** | If there are 5 or more players alive, you must vote for every nomination.
 
 ### Minion
 
